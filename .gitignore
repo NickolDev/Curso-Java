@@ -1,13 +1,13 @@
-# IntelliJ IDEA
+# IntelliJ
 .idea/
 *.iml
 
-# Saídas de compilação
+# Build
 out/
 build/
 target/
 
-# Arquivos compilados Java
+# Java
 *.class
 *.jar
 *.war
@@ -16,9 +16,9 @@ target/
 # Logs
 *.log
 
-# Sistema operacional
+# SO
 .DS_Store
 Thumbs.db
 
-# Pasta de testes/estudos locais
+# Pasta de estudos
 /src/
