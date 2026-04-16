@@ -1,2 +1,24 @@
-# Project exclude paths
-/out/
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Saídas de compilação
+out/
+build/
+target/
+
+# Arquivos compilados Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Pasta de testes/estudos locais
+/src/
